@@ -1,0 +1,2 @@
+# INflexAI
+Smart assistant
