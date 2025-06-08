@@ -27,7 +27,7 @@
 
 ## 🧠 Tech Stack
 
-- **Frontend:** [Streamlit](https://streamlit.io/)
+- **Frontend:** [Streamlit](https://inflexai.streamlit.app/)
 - **Backend:** Python
 - **LLM:** Groq API (LLaMA 3 8B)
 - **TTS:** Groq Text-to-Speech API
